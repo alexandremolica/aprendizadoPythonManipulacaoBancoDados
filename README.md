@@ -1,2 +1,4 @@
 # Aprendizado Python - Manipulação de Banco de Dados
-Aprendizado de manipulacao de Python com Banco de Dados (Sqlite3 e pandas). 
+- Aprendizado de manipulacao Banco de Dados 
+- Sqlite3
+- Pandas 
